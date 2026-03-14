@@ -100,50 +100,89 @@ ASPIRING DATA SCIENTIST
 
 # 💻 Featured Projects
 
-### 📊 AmbitionBox Company Analytics
-Python | Pandas | Power BI | Web Scraping  
+## 📈 Stock Market Prediction using Machine Learning
 
-✔ Scraped company salary and review data  
-✔ Conducted exploratory and statistical analysis  
-✔ Built Power BI dashboards for salary insights  
+Machine learning model that predicts stock price trends using historical financial data.
 
----
+Technologies
+Python • Pandas • Scikit-learn • Matplotlib
 
-### 📈 Marketing Campaign Performance Dashboard
-Excel | Google Sheets  
-
-✔ Built dashboard using Pivot Tables  
-✔ Analyzed conversion rates and ROAS  
-✔ Implemented slicers for interactive filtering  
+Repository
+https://github.com/PatatiYasaswi/stock-market-prediction-ml
 
 ---
 
-### 🌍 ENERGYDB2 – Relational Database Analysis
-MySQL | SQL  
+## 🧠 Health Risk Prediction System
 
-✔ Created database for global energy data  
-✔ Performed comparative and trend analysis  
-✔ Identified energy consumption patterns  
+Machine learning system that predicts insurance risk categories based on health attributes.
 
----
+Technologies
+Python • XGBoost • Flask • Pandas
 
-### 🛒 E-Commerce Sales Analytics Dashboard
-Power BI | Power Query | DAX  
-
-✔ Cleaned and transformed sales data  
-✔ Created business KPIs and measures  
-✔ Built professional analytics dashboard  
+Repository
+https://github.com/PatatiYasaswi/health-risk-prediction-ml
 
 ---
 
-### 🧠 Prudential Life Insurance Risk Prediction 
-Python | Flask | XGBoost | Pandas | HTML | CSS | SQLite
+## 💼 Job Market Analytics
 
-✔ Developed a **machine learning–based web application** to predict insurance health risk and recommend suitable insurance policies.  
-✔ Built a predictive model using **XGBoost** to classify applicants into risk categories based on health and lifestyle features.  
-✔ Designed an **interactive web interface** using Flask, HTML, and CSS to collect user inputs and display policy recommendations.  
-✔ Implemented **automated decision support for insurance underwriting** to improve efficiency and accuracy.
+Web scraping and data analysis project studying salary trends and company insights.
 
+Technologies
+Python • BeautifulSoup • Pandas • Power BI
+
+Repository
+https://github.com/PatatiYasaswi/job-market-analytics-webscraping
+
+---
+
+## 📊 Retail Sales Intelligence Dashboard
+
+Sales analytics project analyzing product performance and revenue trends.
+
+Technologies
+Python • SQL • Power BI
+
+Repository
+https://github.com/PatatiYasaswi/retail-sales-intelligence-dashboard
+
+---
+
+## 🌍 Global Energy Economics Analysis
+
+SQL-based analysis of global energy production, GDP, emissions, and population data.
+
+Technologies
+SQL • MySQL
+
+Repository
+https://github.com/PatatiYasaswi/energy-economics-sql-analysis
+
+---
+
+## 🍔 Food Delivery Data Analysis
+
+End-to-end data analysis project studying customer behavior and restaurant performance.
+
+Technologies
+Python • Pandas • SQL
+
+Repository
+https://github.com/PatatiYasaswi/food-delivery-data-analysis
+
+---
+
+## 📈 Marketing Campaign Analytics Dashboard
+
+Interactive dashboard analyzing marketing campaign performance metrics.
+
+Technologies
+Excel • Pivot Tables • KPI Analysis
+
+Repository
+https://github.com/PatatiYasaswi/marketing-campaign-analytics-dashboard
+
+---
 
 # 🏆 Certifications
 
