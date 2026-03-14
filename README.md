@@ -132,7 +132,7 @@ Technologies
 Python • BeautifulSoup • Pandas • Power BI
 
 Repository
-https://github.com/PatatiYasaswi/job-market-analytics-webscraping
+https://github.com/PatatiYasaswi/job-market-analytics
 
 ---
 
@@ -144,7 +144,7 @@ Technologies
 Python • SQL • Power BI
 
 Repository
-https://github.com/PatatiYasaswi/retail-sales-intelligence-dashboard
+https://github.com/PatatiYasaswi/Ecommerce-PBI-Analytics
 
 ---
 
@@ -156,7 +156,7 @@ Technologies
 SQL • MySQL
 
 Repository
-https://github.com/PatatiYasaswi/energy-economics-sql-analysis
+https://github.com/PatatiYasaswi/ENERGYDB2-SQL-Project
 
 ---
 
@@ -180,7 +180,7 @@ Technologies
 Excel • Pivot Tables • KPI Analysis
 
 Repository
-https://github.com/PatatiYasaswi/marketing-campaign-analytics-dashboard
+https://github.com/PatatiYasaswi/Marketing-Campaign-Performance-Dashboard
 
 ---
 
