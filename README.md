@@ -100,6 +100,26 @@ ASPIRING DATA SCIENTIST
 
 # 💻 Featured Projects
 
+## Vehicle Tracking and Logging System
+
+Smart system that automatically tracks vehicle entry and exit using camera-based number plate detection and stores records in a database.
+
+Technologies 
+Python • Flask • OpenCV • EasyOCR • MySQL • HTML • CSS • JavaScript
+
+Repository
+https://github.com/PatatiYasaswi/vehicle-tracking-system
+
+## AI Emotional Support Companion System
+
+AI-based conversational system that understands user emotions and provides empathetic responses with real-time suggestions.
+
+Technologies
+Python • FastAPI • TinyLlama • PyTorch • Hugging Face • MongoDB
+
+Repository
+https://github.com/PatatiYasaswi/AI-Emotional-Support-Companion-System
+
 ## 📈 Stock Market Prediction using Machine Learning
 
 Machine learning model that predicts stock price trends using historical financial data.
