@@ -110,6 +110,8 @@ Python • Flask • OpenCV • EasyOCR • MySQL • HTML • CSS • JavaScrip
 Repository
 https://github.com/PatatiYasaswi/vehicle-tracking-system
 
+---
+
 ## AI Emotional Support Companion System
 
 AI-based conversational system that understands user emotions and provides empathetic responses with real-time suggestions.
@@ -120,6 +122,8 @@ Python • FastAPI • TinyLlama • PyTorch • Hugging Face • MongoDB
 Repository
 https://github.com/PatatiYasaswi/AI-Emotional-Support-Companion-System
 
+---
+
 ## 📈 Stock Market Prediction using Machine Learning
 
 Machine learning model that predicts stock price trends using historical financial data.
@@ -129,6 +133,20 @@ Python • Pandas • Scikit-learn • Matplotlib
 
 Repository
 https://github.com/PatatiYasaswi/stock-market-prediction-ml
+
+---
+
+## 💎 Diamond Price Prediction System
+
+Machine learning–based web application that predicts diamond prices using physical and quality attributes with high accuracy.
+
+Provides real-time price estimation, diamond category prediction, and an interactive dashboard for seamless user experience.
+
+Technologies  
+Python • Streamlit • Scikit-Learn • Pandas • NumPy • Matplotlib • Seaborn
+
+Repository  
+https://github.com/PatatiYasaswi/Diamond-Price-Prediction
 
 ---
 
