@@ -170,7 +170,7 @@ Technologies
 Python • BeautifulSoup • Pandas • Power BI
 
 Repository
-https://github.com/PatatiYasaswi/job-market-analytics
+https://github.com/PatatiYasaswi/Job-Market-Analysis
 
 ---
 
